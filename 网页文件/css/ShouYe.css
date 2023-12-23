@@ -1,0 +1,48 @@
+ul{list-style-type: none;padding: 0px;}
+img:hover{opacity: 1;}
+.photo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 666px;
+}
+.photo ol {
+	position: absolute;
+	margin-left: 666px;
+}
+.photo ol li{
+	border-radius: 35%;
+	position: relative;
+	border: 3px solid black;
+	background-color: white;
+	display: block;
+	float: left;
+	width: 20px;
+	height: 10px;
+	margin-left: 20px;
+	margin-top: 600px;
+}
+.photo_img{
+	outline-style: solid;
+	margin-top: -333px;
+	margin-left: -500px;
+	position: absolute;
+	height: 666px;
+	width: 1000px;
+}
+.b_left{
+	height: 100px;
+	width: 30px;
+	margin-left: -960px;
+	position: absolute;
+	opacity: 0.1;
+	z-index: 99;
+}
+.b_right{
+	height: 100px;
+	width: 30px;
+	margin-left: 960px;
+	position: absolute;
+	opacity: 0.1;
+	z-index: 99;
+}

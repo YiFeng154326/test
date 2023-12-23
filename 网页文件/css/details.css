@@ -1,0 +1,18 @@
+.title{
+	font-size: 30px;
+	font-weight: bold;
+}
+.path p{
+	line-height: 50px;
+	padding-left: 20px;
+	padding-right: 40px;
+}
+.photo{
+	margin-left: 340px;
+	width: 50%;
+	text-align: center;
+	font-size: 12px;
+}
+.photo img{
+	width: 100%;
+}

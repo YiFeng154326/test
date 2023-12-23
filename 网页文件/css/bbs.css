@@ -1,0 +1,14 @@
+.d_login{
+	color: #FFFFFF;
+	width: 300px;
+	position: absolute;
+	margin-top: -102px;
+	margin-left: 1145px;
+}
+.d_login table{
+	table-layout: auto;
+}
+.register,.register link{
+	color: #FFFFFF;
+	text-decoration: none;
+}
